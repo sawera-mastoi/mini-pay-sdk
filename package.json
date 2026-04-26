@@ -1,0 +1,24 @@
+{
+  "name": "minipay",
+  "version": "1.0.0",
+  "description": "SDK for Celo Talent April Reward Event",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "celo",
+    "minipay",
+    "reward",
+    "sdk"
+  ],
+  "author": "gojo",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sawera-mastoi/mini-pay-sdk.git"
+  },
+  "dependencies": {
+    "viem": "^2.48.4"
+  }
+}
