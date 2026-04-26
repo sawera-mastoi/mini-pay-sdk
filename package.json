@@ -1,5 +1,5 @@
 {
-  "name": "minipay",
+  "name": "@gojo89427/minipay",
   "version": "1.0.0",
   "description": "SDK for Celo Talent April Reward Event",
   "main": "index.js",

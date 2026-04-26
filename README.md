@@ -1,17 +1,17 @@
-# minipay
+# @gojo89427/minipay
 
 SDK for interacting with the Celo Talent April Reward Event contract.
 
 ## Installation
 
 ```bash
-npm install minipay
+npm install @gojo89427/minipay
 ```
 
 ## Usage
 
 ```javascript
-const { MiniPaySDK } = require('minipay');
+const { MiniPaySDK } = require('@gojo89427/minipay');
 
 // Initialize the SDK
 const sdk = new MiniPaySDK();
